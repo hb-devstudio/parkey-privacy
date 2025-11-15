@@ -18,12 +18,14 @@ Parkey est une application mobile permettant la location de places de parking en
 ## 🔗 Liens Utiles
 
 - **Politique de confidentialité :** [PRIVACY.md](./PRIVACY.md)
+- **Suppression de compte :** [ACCOUNT_DELETION.md](./ACCOUNT_DELETION.md)
 - **Contact :** support@parkey.eu
 
 ## 📝 Dernière Mise à Jour
 
-La dernière mise à jour de cette politique de confidentialité date du **15 janvier 2025**.
+La dernière mise à jour de cette politique de confidentialité date du **15 novembre 2025**.
 
 ---
 
 Pour toute question concernant cette politique de confidentialité, contactez-nous à **support@parkey.eu**.
+
