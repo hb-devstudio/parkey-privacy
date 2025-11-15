@@ -245,6 +245,6 @@ Vous disposez également des droits suivants (voir notre [Politique de Confident
 
 ---
 
-**Dernière mise à jour :** 15 janvier 2025  
+**Dernière mise à jour :** 15 novembre 2025  
 **Version :** 1.0
 
