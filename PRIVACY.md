@@ -1,7 +1,7 @@
 # Politique de Confidentialité - Parkey
 
-**Dernière mise à jour :** 15 janvier 2025  
-**Version :** 1.0
+**Dernière mise à jour :** 15 novembre 2025  
+**Version :** 1.1
 
 ## 1. Introduction
 
@@ -219,6 +219,8 @@ Vous pouvez corriger vos données personnelles directement dans l'Application ou
 ### 8.3 Droit à l'Effacement (Art. 17 RGPD)
 Vous pouvez demander la suppression de vos données personnelles, sous réserve des obligations légales de conservation.
 
+**Pour demander la suppression de votre compte :** Consultez notre [guide de suppression de compte](https://github.com/hb-devstudio/parkey-privacy/blob/main/ACCOUNT_DELETION.md) qui détaille la procédure complète, les données supprimées, celles conservées et leurs durées de conservation.
+
 ### 8.4 Droit à la Limitation du Traitement (Art. 18 RGPD)
 Vous pouvez demander la limitation du traitement de vos données dans certains cas.
 
@@ -239,6 +241,8 @@ Vous pouvez déposer une réclamation auprès de la CNIL (Commission Nationale d
 **Pour exercer vos droits :**
 - **Email :** support@parkey.eu
 - **Délai de réponse :** 30 jours maximum
+
+**Suppression de compte :** Si vous souhaitez supprimer votre compte et toutes les données associées, consultez notre [guide de suppression de compte](https://github.com/hb-devstudio/parkey-privacy/blob/main/ACCOUNT_DELETION.md).
 
 ## 9. Transferts de Données Internationaux
 
@@ -285,4 +289,10 @@ Pour toute question concernant cette politique de confidentialité ou pour exerc
 
 ---
 
-**Dernière mise à jour :** 15 janvier 2025
+## 15. Liens Utiles
+
+- **[Suppression de compte](https://github.com/hb-devstudio/parkey-privacy/blob/main/ACCOUNT_DELETION.md)** : Guide complet pour demander la suppression de votre compte et comprendre quelles données sont supprimées ou conservées.
+
+
+**Dernière mise à jour :** 15 novembre 2025
+
